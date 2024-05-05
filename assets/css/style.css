@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #010101;
+    background-color: #ffffff;
 }
 
 /* CSS styling for header and naviagtion menu */
@@ -16,9 +16,9 @@ header {
     padding: 20px;
     width: 100%;
     font-family: 'monaco', 'Consolas', 'Lucida Console', monospace;
-    background-color: #1185EA;
+    background-color: #ffffff;
     color: #ffffff;
-
+    border-bottom: #999999;
 }
 
 h1 {
