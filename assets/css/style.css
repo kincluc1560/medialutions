@@ -17,7 +17,7 @@ header {
     width: 100%;
     font-family: 'monaco', 'Consolas', 'Lucida Console', monospace;
     background-color: #ffffff;
-    color: #ffffff;
+    color: #000000;
     border-bottom: #999999;
 }
 
@@ -44,7 +44,7 @@ li {
 }
 
 a {
-    color: #ffffff;
+    color: #999999;
     text-decoration: none;
 }
 
