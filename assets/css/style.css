@@ -1,0 +1,126 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    color: #ffffff;
+}
+
+body {
+    background-color: #010101;
+}
+
+/* CSS styling for header and naviagtion menu */
+
+header {
+    display: inline-block;
+    padding: 20px;
+    width: 100%;
+    font-family: 'monaco', 'Consolas', 'Lucida Console', monospace;
+    background-color: #1185EA;
+    color: #ffffff;
+
+}
+
+h1 {
+    display: inline-flex;
+    font-size: 48px;
+}
+
+header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'monaco', 'Consolas', 'Lucida Console', monospace;
+    font-size: 20px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffffff99;
+}
+
+p {
+    font-size: 16px;
+}
+
+/* CSS styling for background image */
+
+.background {
+    height: 400px;
+    width: 100%;
+    margin-bottom: 25px;
+    background: url("../images/background.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.background img {
+    height: 150px;
+    width: 150px;
+    margin-left: 15px;
+}
+
+/* CSS styling for main articles */
+
+main {
+    width: (100% - 40px);
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+    padding: 50px;
+    font-family: 'monaco', 'Consolas', 'Lucida Console', monospace;
+    color: #ffffff;
+}
+
+section#about-me {
+    background-color: #18B1D1;
+}
+
+section#contact-me {
+    background-color: #E67F22;
+}
+
+section#contact-me p {
+    margin-bottom: 10px;
+}
+
+section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* CSS styling for work section */
+
+section#work {
+    background-color: #AB47BB;
+}
+
+#work img {
+    width: 100%;
+}
+
+/* CSS styling for reactive navigation bar */
+
+@media screen and (max-width: 800px) {
+    main,
+    header {
+      flex-direction: column;
+    }
+  }
