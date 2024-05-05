@@ -22,6 +22,7 @@ header {
 }
 
 h1 {
+    color: #000000;
     display: inline-flex;
     font-size: 48px;
 }
@@ -86,7 +87,7 @@ section {
     margin-bottom: 20px;
     padding: 50px;
     font-family: 'monaco', 'Consolas', 'Lucida Console', monospace;
-    color: #ffffff;
+    color: #000000;
 }
 
 section#about-me {
