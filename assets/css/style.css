@@ -14,7 +14,7 @@ header {
     display: inline-block;
     padding: 20px;
     width: 100%;
-    font-family: 'monaco', 'Consolas', 'Lucida Console', monospace;
+    font-family: 'Raleway', 'Consolas', 'Lucida Console', monospace;
     background-color: #ffffff;
     color: #000000;
     border-bottom: #999999;
@@ -30,7 +30,7 @@ header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'monaco', 'Consolas', 'Lucida Console', monospace;
+    font-family: 'Raleway', 'Consolas', 'Lucida Console', monospace;
     font-size: 20px;
 }
 
@@ -91,7 +91,7 @@ main {
 section {
     margin-bottom: 20px;
     padding: 50px;
-    font-family: 'monaco', 'Consolas', 'Lucida Console', monospace;
+    font-family: 'Raleway', 'Consolas', 'Lucida Console', monospace;
     color: #000000;
 }
 
