@@ -51,6 +51,7 @@ header img {
     height: 44px;
     width: 44px;
     margin-left: 15px;
+    margin-right: 5px;
 }
 
 ul {
@@ -73,6 +74,7 @@ a:hover {
 
 p {
     font-size: 16px;
+    color: #596275;
 }
 
 /* CSS styling for background image */
