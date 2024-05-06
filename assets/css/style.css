@@ -8,6 +8,12 @@ body {
     background-color: #ffffff;
 }
 
+.merriweather-regular {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
 .raleway-font {
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
@@ -21,7 +27,7 @@ header {
     display: inline-block;
     padding: 20px;
     width: 100%;
-    font-family: 'Raleway', 'Consolas', 'Lucida Console', monospace;
+    font-family: "Merriweather", serif;
     background-color: #ffffff;
     color: #000000;
     border-bottom: #999999;
