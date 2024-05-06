@@ -37,7 +37,7 @@ header {
     font-family: "Merriweather", serif;
     background-color: #ffffff;
     color: #000000;
-    border-bottom: #999999;
+    border-bottom: 1px solid rgba(0,0,0,.1);
 }
 
 h1 {
