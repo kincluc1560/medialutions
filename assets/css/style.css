@@ -8,6 +8,13 @@ body {
     background-color: #ffffff;
 }
 
+.container {
+    align-items: center;
+    max-width: 1230px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
 .merriweather-regular {
     font-family: "Merriweather", serif;
     font-weight: 400;
