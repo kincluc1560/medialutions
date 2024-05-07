@@ -171,6 +171,16 @@ section {
     color: #000000;
 }
 
+.sub-h1 {
+    position: relative;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    color: #596275;
+    padding-left: 30px;
+    margin-bottom: 25px;
+}
+
 .sub-h1 a {
     position: absolute;
     content: "";
