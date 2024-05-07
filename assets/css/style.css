@@ -89,6 +89,10 @@ a {
     text-decoration: none;
 }
 
+nav a {
+    font-weight: 600;
+}
+
 a:hover {
     color: #00A79D;
 }
