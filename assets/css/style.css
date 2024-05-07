@@ -33,10 +33,15 @@ body {
 header {
     display: inline-block;
     padding: 20px;
+    padding-bottom: 0px;
     width: 100%;
     font-family: "Merriweather", serif;
     background-color: #ffffff;
     color: #000000;
+}
+
+.textborder {
+    padding-bottom: 20px;
     border-bottom: 1px solid rgba(0,0,0,.1);
 }
 
