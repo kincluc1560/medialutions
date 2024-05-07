@@ -181,7 +181,7 @@ section {
     margin-bottom: 25px;
 }
 
-.sub-h1 a {
+.sub-h1 p {
     position: absolute;
     content: "";
     width: 20px;
