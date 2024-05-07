@@ -51,6 +51,7 @@ h1 {
     color: #000000;
     display: inline-flex;
     font-size: 48px;
+    margin-right: auto;
 }
 
 header nav {
@@ -59,17 +60,19 @@ header nav {
     font-family: 'Raleway', 'Consolas', 'Lucida Console', monospace;
     font-size: 20px;
     display: inline-flex;
+    justify-content: space-between;
 }
 
 header img {
     height: 44px;
     width: 44px;
     margin-left: 15px;
-    margin-right: 5px;
+    margin-right: 15px;
 }
 
 ul {
     list-style-type: none;
+    font-size: 16px;
 }
 
 li {
@@ -124,6 +127,7 @@ button {
     font-weight: 700;
     font-size: 18px;
     line-height: 20px;
+    margin-left: 100px;
 }
 
 /* CSS styling for background image */
