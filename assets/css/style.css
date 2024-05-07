@@ -121,6 +121,12 @@ button {
     color: #0069ff;
 }
 
+.nav-phone {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+}
+
 /* CSS styling for background image */
 
 .background {
