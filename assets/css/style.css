@@ -170,11 +170,15 @@ section {
 section#about-me {
     background-color: #00A79D;
 }
-*/
+
+section#work {
+    background-color: #AB47BB;
+}
 
 section#contact-me {
     background-color: #E67F22;
 }
+*/
 
 section#contact-me p {
     margin-bottom: 10px;
@@ -183,12 +187,6 @@ section#contact-me p {
 section h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
-
-/* CSS styling for work section */
-
-section#work {
-    background-color: #AB47BB;
 }
 
 #work img {
