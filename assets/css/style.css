@@ -85,7 +85,7 @@ li {
 }
 
 a {
-    color: #999999;
+    color: #596275;
     text-decoration: none;
 }
 
@@ -132,6 +132,7 @@ button {
     font-size: 18px;
     line-height: 20px;
     margin-left: 100px;
+    color: #000000;
 }
 
 /* CSS styling for background image */
