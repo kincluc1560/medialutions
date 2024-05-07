@@ -181,6 +181,10 @@ section {
     margin-bottom: 25px;
 }
 
+.sub-h1 h2 {
+    margin-left: 15px;
+}
+
 .sub-h1 p {
     position: absolute;
     content: "";
@@ -209,10 +213,12 @@ section#contact-me p {
     margin-bottom: 10px;
 }
 
+/*
 section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+*/
 
 #work img {
     width: 100%;
