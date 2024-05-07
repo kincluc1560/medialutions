@@ -9,6 +9,11 @@ body {
     background-color: #ffffff;
 }
 
+.header .container {
+    display: flex;
+    align-items: center;
+}
+
 .container {
     align-items: center;
     max-width: 1230px;
@@ -55,7 +60,6 @@ h1 {
 }
 
 header nav {
-    padding-top: 15px;
     margin-right: 20px;
     font-family: 'Raleway', 'Consolas', 'Lucida Console', monospace;
     font-size: 20px;
