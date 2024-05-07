@@ -171,6 +171,16 @@ section {
     color: #000000;
 }
 
+.sub-h1:before {
+    position: absolute;
+    content: "";
+    width: 20px;
+    height: 2px;
+    background: #596275;
+    left: 0;
+    top: calc(50% - 1px);
+}
+
 /*
 section#about-me {
     background-color: #00A79D;
