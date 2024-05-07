@@ -171,7 +171,7 @@ section {
     color: #000000;
 }
 
-.sub-h1:before {
+.sub-h1 a {
     position: absolute;
     content: "";
     width: 20px;
