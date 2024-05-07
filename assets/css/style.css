@@ -42,6 +42,7 @@ header {
 
 .textborder {
     padding-bottom: 20px;
+    max-width: 100%;
     border-bottom: 1px solid rgba(0,0,0,.1);
 }
 
