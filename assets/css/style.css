@@ -56,10 +56,9 @@ h1 {
 header nav {
     padding-top: 15px;
     margin-right: 20px;
-    float: right;
     font-family: 'Raleway', 'Consolas', 'Lucida Console', monospace;
     font-size: 20px;
-    display: flex;
+    display: inline-flex;
 }
 
 header img {
