@@ -43,7 +43,7 @@ header {
     width: 100%;
     font-family: "Merriweather", serif;
     background-color: #ffffff;
-    color: #000000;
+    color: #101828;
 }
 
 .textborder {
@@ -53,7 +53,7 @@ header {
 }
 
 h1 {
-    color: #000000;
+    color: #101828;
     display: inline-flex;
     font-size: 24px;
     margin-right: auto;
@@ -137,7 +137,7 @@ button {
     font-size: 18px;
     line-height: 20px;
     margin-left: 100px;
-    color: #000000;
+    color: #101828;
 }
 
 /* CSS styling for background image */
@@ -168,7 +168,7 @@ section {
     margin-bottom: 20px;
     padding-top: 60px;
     font-family: 'Raleway', 'Consolas', 'Lucida Console', monospace;
-    color: #000000;
+    color: #101828;
 }
 
 .sub-h1 {
